@@ -10,5 +10,8 @@
   "workspaces": [
     "packages/a",
     "packages/b"
-  ]
+  ],
+  "devDependencies": {
+    "nx": "15.2.1"
+  }
 }
